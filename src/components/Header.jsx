@@ -1,4 +1,4 @@
-import logo from '../../public/graph.jpg'
+import logo from '/src/assets/graph.jpg'
 
 export default function Header() {
     return <header id="header">
